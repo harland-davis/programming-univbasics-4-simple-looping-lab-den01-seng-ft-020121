@@ -1,4 +1,3 @@
-string = "Hello World"
 
 def loop_message_five_times(string)
   counter = 0
@@ -8,7 +7,6 @@ def loop_message_five_times(string)
   end
 end
 
-loop_message_five_times(string)
 
 def loop_message_n_times(string, n)
   counter = 0 
@@ -18,8 +16,6 @@ def loop_message_n_times(string, n)
   end
 end
 
-
-joke = ["Why'd the chicken", "cross the", "road?"]
 
 def output_array(joke) 
   counter = 0 
