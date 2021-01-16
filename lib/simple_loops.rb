@@ -18,7 +18,6 @@ def loop_message_n_times(string, n)
   end
 end
 
-loop_message_n_times(string, 5)
 
 joke = ["Why'd the chicken", "cross the", "road?"]
 
