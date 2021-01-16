@@ -29,7 +29,6 @@ def output_array(joke)
   end
 end
 
-array = [8, 12, 20, 5]
 
 def return_string_array(array)
   counter = 0 
