@@ -21,9 +21,9 @@ end
 
 joke = ["Why'd the chicken", "cross the", "road?"]
 
-def output_array(joke) do
+def output_array(joke) 
   counter = 0 
-  while counter < joke.length
+  while counter < joke.length do
     puts joke[counter]
     counter += 1 
   end
